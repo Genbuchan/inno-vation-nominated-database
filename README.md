@@ -10,6 +10,10 @@
 
 処理したデータ (nominated.json) を、カレントディレクトリに出力します
 
+# 必要なもの
+- Python 3系 (3.7.6 で動作検証済み)
+- BeautifulSoup 4
+
 # 実行方法
 
 ```bash
